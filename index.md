@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/mamiyamax/mamiyamax.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+layout: default
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+Wie Sie wahrscheinlich schon wissen, suchen wir eine Wohnung—am liebsten 2½ oder 3 Zimmer—zwischen Schöneberg und Steglitz. Da wird unser Sohn Kai nämlich zur Schule gehen. Ach so, wer sind wir eigentlich! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Enno
+Das ist der neueste Zuwachs der Familie. 18-Monate jung, lustig, friedseelig und im Moment ganz großer Fan von `Auto` und `Wau Wau`. Enno geht auch schon zu Ingrid's Kindergarten. 
 
-```markdown
-Syntax highlighted code block
+#### Kai
+Das ist unser cleverer 5-jährige Weltenbummler, der in Kopenhagen geboren wurde und nach Abstechern nach Leipzig und Hawaii nun die Kita Buddelkiste besucht. 
+Kai wird in die Rothenburg-Grundschule eingeschult werden. 
 
-# Header 1
-## Header 2
-### Header 3
+#### Mama
+Die Mama hat den Papa in Paris kennengelernt, während Ihres Forschungsaufenthaltes am Institut Pasteur, als promovierte Virologin. 
 
-- Bulleted
-- List
+#### Papa
+Der Papa ist seit Dezember 2019 Habilitant der Informatik an der TU Berlin und nimmt auch gerne Tipps für den Weg zur Professur entgegen. 
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+#### Kontakt 
 
-[Link](url) and ![Image](src)
-```
+`drheindel@pm.me`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mamiyamax/mamiyamax.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

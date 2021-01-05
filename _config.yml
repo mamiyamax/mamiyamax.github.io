@@ -1,1 +1,6 @@
+show_downloads: false
+
 theme: jekyll-theme-minimal
+title: [Willkommen!]
+description: [Wir suchen eine Wohnung]
+logo: /pic.jpeg
