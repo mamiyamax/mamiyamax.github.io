@@ -7,7 +7,7 @@ layout: default
 ---
 
 As you might already know, 
-we are looking for an apartment—preferably 2½ or 3 room—in the area from Schöneberg to Steglitz. That is where our son Kai will go to school. But before we are getting ahead of ourselves,  let us start with introductions. 
+we are looking for an apartment—preferably 2½ or 3 rooms—in the area from Schöneberg to Steglitz. That is where our son Kai will go to school. But before we are getting ahead of ourselves,  let us start with introductions. 
 
 #### Enno
 He is the youngest member of the family: 18 months, funny, carefree and these days a big fan of `Auto` and `Wau Wau`. Enno is going to Ingrid's Kindergarten. 
