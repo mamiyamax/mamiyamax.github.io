@@ -6,26 +6,28 @@ layout: default
 
 ---
 
-Wie Sie wahrscheinlich schon wissen, suchen wir eine Wohnung—am liebsten 2½ oder 3 Zimmer—zwischen Schöneberg und Steglitz. Da wird unser Sohn Kai nämlich zur Schule gehen. Ach so, wer sind wir eigentlich! 
+As you might already know, 
+we are looking for an apartment—preferably 2½ or 3 room—in the area from Schöneberg to Steglitz. That is where our son Kai will go to school. But before we are getting ahead of ourselves,  let us start with introductions. 
 
 #### Enno
-Das ist der neueste Zuwachs der Familie. 18-Monate jung, lustig, friedseelig und im Moment ganz großer Fan von `Auto` und `Wau Wau`. Enno geht auch schon zu Ingrid's Kindergarten. 
+He is the youngest member of the family: 18 months, funny, carefree and these days a big fan of `Auto` and `Wau Wau`. Enno is going to Ingrid's Kindergarten. 
 
 #### Kai
-Das ist unser cleverer 5-jährige Weltenbummler, der in Kopenhagen geboren wurde und nach Abstechern nach Leipzig und Hawaii nun die Kita Buddelkiste besucht. 
-Kai wird in die Rothenburg-Grundschule eingeschult werden. 
+He is our clever 5-yo globetrotter, born in Copenhagen. He is now attending Kita Buddelkiste after stays in Leipzig and Hawaii. 
+This summer, Kai will start his school life in Rothenburg-Grundschule, just behind  Rathaus Steglitz. 
 
-#### Mama
-Die Mama hat den Papa in Paris kennengelernt, während Ihres Forschungsaufenthaltes am Institut Pasteur, als promovierte Virologin. 
+#### [Mum](https://www.linkedin.com/in/mami-yamamoto-b9293934/) 
+[Mum](https://www.linkedin.com/in/mami-yamamoto-b9293934/) has met dad in Paris, during her post-doc at Institut Pasteur as a virologist. 
 
-#### Papa
-Der Papa ist seit Dezember 2019 Habilitant der Informatik an der TU Berlin und nimmt auch gerne Tipps für den Weg zur Professur entgegen. 
+#### [Dad](https://de.linkedin.com/in/tobias-heindel-6323922a)
+[Dad](https://de.linkedin.com/in/tobias-heindel-6323922a) is pursuing his habilitation in computer science at TU Berlin since 2019. Advice on how to become professor is most welcome as well. 
 
 ---
 
 #### Kontakt 
 
-`drheindel@pm.me`
+* `mamiyamax@pm.me`
+* `+49 151 45 61 75 23`
 
 
 
