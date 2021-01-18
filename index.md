@@ -24,11 +24,11 @@ This summer, Kai will start his school life in Rothenburg-Grundschule, just behi
 
 ---
 
-#### Kontakt 
+#### Contact
 
 * `mamiyamax@pm.me`
 * `+49 151 45 61 75 23`
 
-
+#### [Deutsche Seite](drheindel.github.io)
 
 
